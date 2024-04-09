@@ -71,7 +71,9 @@ function App(): React.JSX.Element {
       <ScrollView
         contentInsetAdjustmentBehavior="automatic"
         style={backgroundStyle}>
-        <Header />
+        <View>
+          <Text>Welcome to the World</Text>
+        </View>
         <View
           style={{
             backgroundColor: isDarkMode ? Colors.black : Colors.white,
@@ -112,6 +114,7 @@ const styles = StyleSheet.create({
   },
   highlight: {
     fontWeight: '700',
+    backgroundColor:'green'
   },
 });
 
