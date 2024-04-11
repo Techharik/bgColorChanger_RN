@@ -1,3 +1,8 @@
+# Note:
+Create a figma Design for the random color generator.
+Optimise the code according to the design.
+Add the design Link file to it.  Complete the project
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
